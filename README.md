@@ -1,6 +1,7 @@
 # Prédiction de la Production Photovoltaïque
 
  Ce projet utilise un modèle de prévision basé sur des données historiques de la production photovoltaïque pour prédire la consommation d'énergie (en MW) sur une période donnée. Le modèle utilise une approche de Machine Learning en utilisant des réseaux de neurones LSTM (Long Short-Term Memory).
+ 
  --- 
  
  ## Contenu
@@ -60,4 +61,5 @@ Une fois l'entraînement terminé, vous pouvez visualiser l'évolution de la per
 
 ## Auteurs
 Ce projet a été développé par :
+
   -Fatima Belgazem : fatimabelgazem1@gmail.com
